@@ -1,2 +1,3 @@
-# prakash-Repo.
-Hi there 👋 I am Prakash Shinde. I am passionate on Data Science and Data Analysis related topics. I have over 25 repositories on GitHub. My repositories include a wide range of projects, from simple examples to complex applications.
+Laptop price Predictor Using Machine Learning
+Hi there 👋 I am Prakash Shinde.this is the projectis all about analyze the laptop data using ML modules and python libraries 
+and make price prediction of it.
